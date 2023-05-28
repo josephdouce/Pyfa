@@ -210,7 +210,7 @@ for:
       description: 'Release description'
       provider: GitHub
       auth_token:
-        secure: c9F0c0nwFiOBR36+kMUIaWuAcrURWA2lsX86F/+/ufrf4uASo0WuGzx3LGu7LStB
+        secure: gntHNkLxE9ur9fAWMr7QyLz+PHC7bmmY461zFiqgeDmOn18eAPdZqut4xiiUYxac
       draft: true
       force_update: false
       # deploy on tag push only
